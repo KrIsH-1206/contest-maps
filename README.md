@@ -10,3 +10,7 @@ Welcome to this collection of competitive programming problems! These questions 
 3. Longest Consecutive Sequence       - https://github.com/KrIsH-1206/contest-maps/blob/main/longest-consecutive-sequence.cpp
 4. Top K Frequent Elements            - https://github.com/KrIsH-1206/contest-maps/blob/main/top-k-frequent-elements.cpp
 5. Valid Sudoku                       - https://github.com/KrIsH-1206/contest-maps/blob/main/valid-sudoku.cpp
+
+🚀 Happy Coding!
+
+Whether you're a beginner or an advanced coder, these problems will help strengthen your problem-solving skills. Keep practicing and enjoy the journey! 🎯
